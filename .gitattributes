@@ -1,0 +1,5 @@
+robot-settings_win64-vs2015_1.2.1-6c3a1204f_20210902-200525.zip filter=lfs diff=lfs merge=lfs -text
+choregraphe-suite-2.8.7.4-linux64.tar.gz filter=lfs diff=lfs merge=lfs -text
+choregraphe-suite-2.8.7.4-win64-vs2015.zip filter=lfs diff=lfs merge=lfs -text
+nao-x86-2.8.7.4_20210820_094013.opn filter=lfs diff=lfs merge=lfs -text
+robot-settings_linux64_1.2.1-6c3a1204f_20210902-182550.tar.gz filter=lfs diff=lfs merge=lfs -text
