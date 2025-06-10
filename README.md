@@ -10,7 +10,7 @@ Until then, the community and existing users of Aldebaran robots can still acces
 
 🔧  Available Resources:
 
-- [Pepper & NAO6 Documentation](https://github.com/aldebaran/nao6-doc-sdk) 
+- [Pepper & NAO Documentation (+SDK)](https://github.com/aldebaran/nao6-doc-sdk) 
 - [NAO6 binaries](https://github.com/aldebaran/nao6-binaries) 
 - [NAO6 applications](https://github.com/aldebaran/nao6-apps) 
 
