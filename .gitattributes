@@ -4,3 +4,4 @@ choregraphe-suite-2.8.7.4-win64-vs2015.zip filter=lfs diff=lfs merge=lfs -text
 nao-x86-2.8.7.4_20210820_094013.opn filter=lfs diff=lfs merge=lfs -text
 robot-settings_linux64_1.2.1-6c3a1204f_20210902-182550.tar.gz filter=lfs diff=lfs merge=lfs -text
 offline-nao-x86-2.8.9.0_20250527_131422.opn filter=lfs diff=lfs merge=lfs -text
+robocupper-nao-x86-2.8.5.11_20181206_135344.opn filter=lfs diff=lfs merge=lfs -text
